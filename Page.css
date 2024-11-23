@@ -1,0 +1,47 @@
+body {
+    background: url(gambar/file\ foto.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+}
+
+.wrapper {
+  width: 1100px;  
+  background-color: transparent;
+  border: 2px solid rgba(255, 255, 255, 0);
+  backdrop-filter: blur(20px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    color: #fff;
+    border-radius: 10px;
+    padding: 30px 40px;
+    align-items: center;}
+
+
+.social {
+    width: 100px;  
+    background-color: transparent;
+    border: 2px solid rgba(255, 255, 255, 0);
+    backdrop-filter: blur(20px);
+      box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+      color: #fff;
+      border-radius: 10px;
+      padding: 10px 20px;
+      align-items: center; 
+}
+
+.social h4 {
+    text-align: center;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+.wrapper h4 {
+    text-shadow: 10px;
+    color: white;
+    text-align: justify;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif
+}
